@@ -48,7 +48,6 @@
        </div>
        </h1>
        <div class="module-action">
-
           <div class="action-left">
             <a class="item active">概述</a>
             <a class="item">数据数据</a>
